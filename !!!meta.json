@@ -1,0 +1,1208 @@
+{
+	"formatVersion": 1,
+	"appVersion": "0.58.7",
+	"files": [
+		{
+			"isClone": false,
+			"noteId": "obeiKYKe3fbO",
+			"notePath": [
+				"obeiKYKe3fbO"
+			],
+			"title": "Linear Equations",
+			"notePosition": 1000000079,
+			"prefix": null,
+			"isExpanded": true,
+			"type": "book",
+			"mime": "",
+			"attributes": [
+				{
+					"type": "label",
+					"name": "viewType",
+					"value": "list",
+					"isInheritable": false,
+					"position": 1
+				},
+				{
+					"type": "label",
+					"name": "expanded",
+					"value": "",
+					"isInheritable": false,
+					"position": 2
+				}
+			],
+			"dirFileName": "Linear Equations",
+			"children": [
+				{
+					"isClone": false,
+					"noteId": "ThOwzpLhI5xX",
+					"notePath": [
+						"obeiKYKe3fbO",
+						"ThOwzpLhI5xX"
+					],
+					"title": "Ratio and Proportions",
+					"notePosition": 30,
+					"prefix": null,
+					"isExpanded": true,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [
+						{
+							"type": "relation",
+							"name": "imageLink",
+							"value": "Epj71cJMnEDi",
+							"isInheritable": false,
+							"position": 1
+						},
+						{
+							"type": "relation",
+							"name": "imageLink",
+							"value": "itlpy6ommTOw",
+							"isInheritable": false,
+							"position": 2
+						},
+						{
+							"type": "relation",
+							"name": "imageLink",
+							"value": "qwIH37RmRRHS",
+							"isInheritable": false,
+							"position": 3
+						}
+					],
+					"format": "html",
+					"dataFileName": "Ratio and Proportions.html",
+					"dirFileName": "Ratio and Proportions",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "Epj71cJMnEDi",
+							"notePath": [
+								"obeiKYKe3fbO",
+								"ThOwzpLhI5xX",
+								"Epj71cJMnEDi"
+							],
+							"title": "image.png",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "image",
+							"mime": "image/png",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "originalFileName",
+									"value": "image.png",
+									"isInheritable": false,
+									"position": 1000
+								}
+							],
+							"dataFileName": "image.png"
+						},
+						{
+							"isClone": false,
+							"noteId": "itlpy6ommTOw",
+							"notePath": [
+								"obeiKYKe3fbO",
+								"ThOwzpLhI5xX",
+								"itlpy6ommTOw"
+							],
+							"title": "image.png",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "image",
+							"mime": "image/png",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "originalFileName",
+									"value": "image.png",
+									"isInheritable": false,
+									"position": 1000
+								}
+							],
+							"dataFileName": "1_image.png"
+						},
+						{
+							"isClone": false,
+							"noteId": "qwIH37RmRRHS",
+							"notePath": [
+								"obeiKYKe3fbO",
+								"ThOwzpLhI5xX",
+								"qwIH37RmRRHS"
+							],
+							"title": "image.png",
+							"notePosition": 30,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "image",
+							"mime": "image/png",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "originalFileName",
+									"value": "image.png",
+									"isInheritable": false,
+									"position": 1000
+								}
+							],
+							"dataFileName": "2_image.png"
+						},
+						{
+							"isClone": false,
+							"noteId": "Z2bXjGJzPSkd",
+							"notePath": [
+								"obeiKYKe3fbO",
+								"ThOwzpLhI5xX",
+								"Z2bXjGJzPSkd"
+							],
+							"title": "Example for interpreation",
+							"notePosition": 40,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "Example for interpreation.html",
+							"dirFileName": "Example for interpreation",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "sbNFHFIgzzdt",
+									"notePath": [
+										"obeiKYKe3fbO",
+										"ThOwzpLhI5xX",
+										"Z2bXjGJzPSkd",
+										"sbNFHFIgzzdt"
+									],
+									"title": "image.png",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/png",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.png"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "OZoeBcrq2FTE",
+							"notePath": [
+								"obeiKYKe3fbO",
+								"ThOwzpLhI5xX",
+								"OZoeBcrq2FTE"
+							],
+							"title": "Properties of Ratio and Proportions",
+							"notePosition": 50,
+							"prefix": null,
+							"isExpanded": true,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "Properties of Ratio and Propor.html",
+							"dirFileName": "Properties of Ratio and Proportions",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "oNw6EOrCIrsS",
+									"notePath": [
+										"obeiKYKe3fbO",
+										"ThOwzpLhI5xX",
+										"OZoeBcrq2FTE",
+										"oNw6EOrCIrsS"
+									],
+									"title": "Geometric understanding of properties of proportions",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "relation",
+											"name": "imageLink",
+											"value": "cMkbkBkuagG5",
+											"isInheritable": false,
+											"position": 1
+										}
+									],
+									"format": "html",
+									"dataFileName": "Geometric understanding of pro.html",
+									"dirFileName": "Geometric understanding of properties of proportions",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "cMkbkBkuagG5",
+											"notePath": [
+												"obeiKYKe3fbO",
+												"ThOwzpLhI5xX",
+												"OZoeBcrq2FTE",
+												"oNw6EOrCIrsS",
+												"cMkbkBkuagG5"
+											],
+											"title": "image.png",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "image",
+											"mime": "image/jpg",
+											"attributes": [
+												{
+													"type": "label",
+													"name": "originalFileName",
+													"value": "image.png",
+													"isInheritable": false,
+													"position": 1000
+												}
+											],
+											"dataFileName": "image.png"
+										}
+									]
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "naofSA7GsohE",
+							"notePath": [
+								"obeiKYKe3fbO",
+								"ThOwzpLhI5xX",
+								"naofSA7GsohE"
+							],
+							"title": "Solution of Linear Equations",
+							"notePosition": 60,
+							"prefix": null,
+							"isExpanded": true,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "Solution of Linear Equations.html",
+							"dirFileName": "Solution of Linear Equations",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "Qg6RraNglFHV",
+									"notePath": [
+										"obeiKYKe3fbO",
+										"ThOwzpLhI5xX",
+										"naofSA7GsohE",
+										"Qg6RraNglFHV"
+									],
+									"title": "Solving Linear Equations as Equivalent Fractions",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": true,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "relation",
+											"name": "imageLink",
+											"value": "tx3xXCZUkMeU",
+											"isInheritable": false,
+											"position": 2
+										},
+										{
+											"type": "relation",
+											"name": "imageLink",
+											"value": "nE8uakD6bnHG",
+											"isInheritable": false,
+											"position": 3
+										},
+										{
+											"type": "relation",
+											"name": "imageLink",
+											"value": "scPkVkOiUZPd",
+											"isInheritable": false,
+											"position": 5
+										}
+									],
+									"format": "html",
+									"dataFileName": "Solving Linear Equations as Eq.html",
+									"dirFileName": "Solving Linear Equations as Equivalent Fractions",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "NWh9AOeJRqJH",
+											"notePath": [
+												"obeiKYKe3fbO",
+												"ThOwzpLhI5xX",
+												"naofSA7GsohE",
+												"Qg6RraNglFHV",
+												"NWh9AOeJRqJH"
+											],
+											"title": "image.png",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "image",
+											"mime": "image/png",
+											"attributes": [
+												{
+													"type": "label",
+													"name": "originalFileName",
+													"value": "image.png",
+													"isInheritable": false,
+													"position": 1000
+												}
+											],
+											"dataFileName": "image.png"
+										},
+										{
+											"isClone": false,
+											"noteId": "tx3xXCZUkMeU",
+											"notePath": [
+												"obeiKYKe3fbO",
+												"ThOwzpLhI5xX",
+												"naofSA7GsohE",
+												"Qg6RraNglFHV",
+												"tx3xXCZUkMeU"
+											],
+											"title": "image.png",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "image",
+											"mime": "image/png",
+											"attributes": [
+												{
+													"type": "label",
+													"name": "originalFileName",
+													"value": "image.png",
+													"isInheritable": false,
+													"position": 1000
+												}
+											],
+											"dataFileName": "1_image.png"
+										},
+										{
+											"isClone": false,
+											"noteId": "nE8uakD6bnHG",
+											"notePath": [
+												"obeiKYKe3fbO",
+												"ThOwzpLhI5xX",
+												"naofSA7GsohE",
+												"Qg6RraNglFHV",
+												"nE8uakD6bnHG"
+											],
+											"title": "image.png",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "image",
+											"mime": "image/png",
+											"attributes": [
+												{
+													"type": "label",
+													"name": "originalFileName",
+													"value": "image.png",
+													"isInheritable": false,
+													"position": 1000
+												}
+											],
+											"dataFileName": "2_image.png"
+										},
+										{
+											"isClone": false,
+											"noteId": "Zh5pI2fLe3rl",
+											"notePath": [
+												"obeiKYKe3fbO",
+												"ThOwzpLhI5xX",
+												"naofSA7GsohE",
+												"Qg6RraNglFHV",
+												"Zh5pI2fLe3rl"
+											],
+											"title": "image.png",
+											"notePosition": 40,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "image",
+											"mime": "image/png",
+											"attributes": [
+												{
+													"type": "label",
+													"name": "originalFileName",
+													"value": "image.png",
+													"isInheritable": false,
+													"position": 1000
+												}
+											],
+											"dataFileName": "3_image.png"
+										},
+										{
+											"isClone": false,
+											"noteId": "scPkVkOiUZPd",
+											"notePath": [
+												"obeiKYKe3fbO",
+												"ThOwzpLhI5xX",
+												"naofSA7GsohE",
+												"Qg6RraNglFHV",
+												"scPkVkOiUZPd"
+											],
+											"title": "image.png",
+											"notePosition": 50,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "image",
+											"mime": "image/png",
+											"attributes": [
+												{
+													"type": "label",
+													"name": "originalFileName",
+													"value": "image.png",
+													"isInheritable": false,
+													"position": 1000
+												}
+											],
+											"dataFileName": "4_image.png"
+										},
+										{
+											"isClone": false,
+											"noteId": "0eRQCDxzAQrR",
+											"notePath": [
+												"obeiKYKe3fbO",
+												"ThOwzpLhI5xX",
+												"naofSA7GsohE",
+												"Qg6RraNglFHV",
+												"0eRQCDxzAQrR"
+											],
+											"title": "Solution to Pair of Equations by converting to Ratios ",
+											"notePosition": 60,
+											"prefix": null,
+											"isExpanded": true,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Solution to Pair of Equations .html",
+											"dirFileName": "Solution to Pair of Equations by converting to Ratios",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "E5XQ5zGzbFhS",
+													"notePath": [
+														"obeiKYKe3fbO",
+														"ThOwzpLhI5xX",
+														"naofSA7GsohE",
+														"Qg6RraNglFHV",
+														"0eRQCDxzAQrR",
+														"E5XQ5zGzbFhS"
+													],
+													"title": "Solution to Pair of Equations by converting to Ratios - I",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Solution to Pair of Equations .html",
+													"dirFileName": "Solution to Pair of Equations by converting to Ratios - I",
+													"children": [
+														{
+															"isClone": false,
+															"noteId": "djMtTXpSKTAa",
+															"notePath": [
+																"obeiKYKe3fbO",
+																"ThOwzpLhI5xX",
+																"naofSA7GsohE",
+																"Qg6RraNglFHV",
+																"0eRQCDxzAQrR",
+																"E5XQ5zGzbFhS",
+																"djMtTXpSKTAa"
+															],
+															"title": "Example 1",
+															"notePosition": 10,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [],
+															"format": "html",
+															"dataFileName": "Example 1.html"
+														},
+														{
+															"isClone": false,
+															"noteId": "3L1I1x1iVMtw",
+															"notePath": [
+																"obeiKYKe3fbO",
+																"ThOwzpLhI5xX",
+																"naofSA7GsohE",
+																"Qg6RraNglFHV",
+																"0eRQCDxzAQrR",
+																"E5XQ5zGzbFhS",
+																"3L1I1x1iVMtw"
+															],
+															"title": "Example 2",
+															"notePosition": 20,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [],
+															"format": "html",
+															"dataFileName": "Example 2.html"
+														},
+														{
+															"isClone": false,
+															"noteId": "NtOIlh6JeeNR",
+															"notePath": [
+																"obeiKYKe3fbO",
+																"ThOwzpLhI5xX",
+																"naofSA7GsohE",
+																"Qg6RraNglFHV",
+																"0eRQCDxzAQrR",
+																"E5XQ5zGzbFhS",
+																"NtOIlh6JeeNR"
+															],
+															"title": "Geometrical reasoning",
+															"notePosition": 30,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [
+																{
+																	"type": "relation",
+																	"name": "imageLink",
+																	"value": "BPqPVTD2ylq7",
+																	"isInheritable": false,
+																	"position": 1
+																}
+															],
+															"format": "html",
+															"dataFileName": "Geometrical reasoning.html",
+															"dirFileName": "Geometrical reasoning",
+															"children": [
+																{
+																	"isClone": false,
+																	"noteId": "BPqPVTD2ylq7",
+																	"notePath": [
+																		"obeiKYKe3fbO",
+																		"ThOwzpLhI5xX",
+																		"naofSA7GsohE",
+																		"Qg6RraNglFHV",
+																		"0eRQCDxzAQrR",
+																		"E5XQ5zGzbFhS",
+																		"NtOIlh6JeeNR",
+																		"BPqPVTD2ylq7"
+																	],
+																	"title": "image.png",
+																	"notePosition": 40,
+																	"prefix": null,
+																	"isExpanded": false,
+																	"type": "image",
+																	"mime": "image/jpg",
+																	"attributes": [
+																		{
+																			"type": "label",
+																			"name": "originalFileName",
+																			"value": "image.png",
+																			"isInheritable": false,
+																			"position": 1000
+																		}
+																	],
+																	"dataFileName": "image.png"
+																}
+															]
+														}
+													]
+												},
+												{
+													"isClone": false,
+													"noteId": "HtQJjJQHANNw",
+													"notePath": [
+														"obeiKYKe3fbO",
+														"ThOwzpLhI5xX",
+														"naofSA7GsohE",
+														"Qg6RraNglFHV",
+														"0eRQCDxzAQrR",
+														"HtQJjJQHANNw"
+													],
+													"title": "Solution to Pair of Equations by converting to Ratios - II",
+													"notePosition": 20,
+													"prefix": null,
+													"isExpanded": true,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "1_Solution to Pair of Equations .html",
+													"dirFileName": "Solution to Pair of Equations by converting to Ratios - II",
+													"children": [
+														{
+															"isClone": false,
+															"noteId": "ZXq8lfSVk0HI",
+															"notePath": [
+																"obeiKYKe3fbO",
+																"ThOwzpLhI5xX",
+																"naofSA7GsohE",
+																"Qg6RraNglFHV",
+																"0eRQCDxzAQrR",
+																"HtQJjJQHANNw",
+																"ZXq8lfSVk0HI"
+															],
+															"title": "Example 1",
+															"notePosition": 10,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [],
+															"format": "html",
+															"dataFileName": "Example 1.html"
+														},
+														{
+															"isClone": false,
+															"noteId": "UiATC1EVmstm",
+															"notePath": [
+																"obeiKYKe3fbO",
+																"ThOwzpLhI5xX",
+																"naofSA7GsohE",
+																"Qg6RraNglFHV",
+																"0eRQCDxzAQrR",
+																"HtQJjJQHANNw",
+																"UiATC1EVmstm"
+															],
+															"title": "Example 2 : 3 Eqns in 3 Unknowns",
+															"notePosition": 20,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [],
+															"format": "html",
+															"dataFileName": "Example 2  3 Eqns in 3 Unknown.html"
+														},
+														{
+															"isClone": false,
+															"noteId": "GpMcfzcn8VGy",
+															"notePath": [
+																"obeiKYKe3fbO",
+																"ThOwzpLhI5xX",
+																"naofSA7GsohE",
+																"Qg6RraNglFHV",
+																"0eRQCDxzAQrR",
+																"HtQJjJQHANNw",
+																"GpMcfzcn8VGy"
+															],
+															"title": "Example 3",
+															"notePosition": 30,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [],
+															"format": "html",
+															"dataFileName": "Example 3.html"
+														},
+														{
+															"isClone": false,
+															"noteId": "2DCtcyVqggXX",
+															"notePath": [
+																"obeiKYKe3fbO",
+																"ThOwzpLhI5xX",
+																"naofSA7GsohE",
+																"Qg6RraNglFHV",
+																"0eRQCDxzAQrR",
+																"HtQJjJQHANNw",
+																"2DCtcyVqggXX"
+															],
+															"title": "Final Note",
+															"notePosition": 40,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [],
+															"format": "html",
+															"dataFileName": "Final Note.html"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "xPvlYOo9Rpyh",
+									"notePath": [
+										"obeiKYKe3fbO",
+										"ThOwzpLhI5xX",
+										"naofSA7GsohE",
+										"xPvlYOo9Rpyh"
+									],
+									"title": "solving Linear equations in 2 variables using Similar Triangles",
+									"notePosition": 40,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "relation",
+											"name": "imageLink",
+											"value": "oChluNFa8woI",
+											"isInheritable": false,
+											"position": 1
+										},
+										{
+											"type": "relation",
+											"name": "imageLink",
+											"value": "hHJDMv2j6d0b",
+											"isInheritable": false,
+											"position": 2
+										}
+									],
+									"format": "html",
+									"dataFileName": "solving Linear equations in 2 .html",
+									"dirFileName": "solving Linear equations in 2 variables using Similar Triangles",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "oChluNFa8woI",
+											"notePath": [
+												"obeiKYKe3fbO",
+												"ThOwzpLhI5xX",
+												"naofSA7GsohE",
+												"xPvlYOo9Rpyh",
+												"oChluNFa8woI"
+											],
+											"title": "image.png",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "image",
+											"mime": "image/png",
+											"attributes": [
+												{
+													"type": "label",
+													"name": "originalFileName",
+													"value": "image.png",
+													"isInheritable": false,
+													"position": 1000
+												}
+											],
+											"dataFileName": "image.png"
+										},
+										{
+											"isClone": false,
+											"noteId": "hHJDMv2j6d0b",
+											"notePath": [
+												"obeiKYKe3fbO",
+												"ThOwzpLhI5xX",
+												"naofSA7GsohE",
+												"xPvlYOo9Rpyh",
+												"hHJDMv2j6d0b"
+											],
+											"title": "image.png",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "image",
+											"mime": "image/png",
+											"attributes": [
+												{
+													"type": "label",
+													"name": "originalFileName",
+													"value": "image.png",
+													"isInheritable": false,
+													"position": 1000
+												}
+											],
+											"dataFileName": "1_image.png"
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "mMLyuVxkGTDL",
+									"notePath": [
+										"obeiKYKe3fbO",
+										"ThOwzpLhI5xX",
+										"naofSA7GsohE",
+										"mMLyuVxkGTDL"
+									],
+									"title": "Using Superposition Principle",
+									"notePosition": 50,
+									"prefix": null,
+									"isExpanded": true,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Using Superposition Principle.html",
+									"dirFileName": "Using Superposition Principle",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "N0Al8dfLveRW",
+											"notePath": [
+												"obeiKYKe3fbO",
+												"ThOwzpLhI5xX",
+												"naofSA7GsohE",
+												"mMLyuVxkGTDL",
+												"N0Al8dfLveRW"
+											],
+											"title": "Example using Unitary method",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": true,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Example using Unitary method.html",
+											"dirFileName": "Example using Unitary method",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "lDleXyv3zLJN",
+													"notePath": [
+														"obeiKYKe3fbO",
+														"ThOwzpLhI5xX",
+														"naofSA7GsohE",
+														"mMLyuVxkGTDL",
+														"N0Al8dfLveRW",
+														"lDleXyv3zLJN"
+													],
+													"title": "Geometric Understanding - Vectors",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "relation",
+															"name": "imageLink",
+															"value": "lupBPuM5PyZp",
+															"isInheritable": false,
+															"position": 1
+														}
+													],
+													"format": "html",
+													"dataFileName": "Geometric Understanding - Vect.html",
+													"dirFileName": "Geometric Understanding - Vectors",
+													"children": [
+														{
+															"isClone": false,
+															"noteId": "lupBPuM5PyZp",
+															"notePath": [
+																"obeiKYKe3fbO",
+																"ThOwzpLhI5xX",
+																"naofSA7GsohE",
+																"mMLyuVxkGTDL",
+																"N0Al8dfLveRW",
+																"lDleXyv3zLJN",
+																"lupBPuM5PyZp"
+															],
+															"title": "Vector Linear Equations.png",
+															"notePosition": 10,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "image",
+															"mime": "image/png",
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "originalFileName",
+																	"value": "Vector Linear Equations.png",
+																	"isInheritable": false,
+																	"position": 1000
+																}
+															],
+															"dataFileName": "Vector Linear Equations.png"
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"isClone": false,
+					"noteId": "xUieM0yLH1B8",
+					"notePath": [
+						"obeiKYKe3fbO",
+						"xUieM0yLH1B8"
+					],
+					"title": "Introduction ",
+					"notePosition": 40,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "html",
+					"dataFileName": "Introduction.html"
+				},
+				{
+					"isClone": false,
+					"noteId": "MyrLD1I3HXai",
+					"notePath": [
+						"obeiKYKe3fbO",
+						"MyrLD1I3HXai"
+					],
+					"title": "Activities",
+					"notePosition": 50,
+					"prefix": null,
+					"isExpanded": true,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "html",
+					"dataFileName": "Activities.html",
+					"dirFileName": "Activities",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "ojBE74HSOJvb",
+							"notePath": [
+								"obeiKYKe3fbO",
+								"MyrLD1I3HXai",
+								"ojBE74HSOJvb"
+							],
+							"title": "Geometrical Activities",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": true,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "1exmQK4QuTCl",
+									"isInheritable": false,
+									"position": 1
+								},
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "6WE2E1g8ONfI",
+									"isInheritable": false,
+									"position": 5
+								},
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "VGU5nT2392ws",
+									"isInheritable": false,
+									"position": 6
+								}
+							],
+							"format": "html",
+							"dataFileName": "Geometrical Activities.html",
+							"dirFileName": "Geometrical Activities",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "1exmQK4QuTCl",
+									"notePath": [
+										"obeiKYKe3fbO",
+										"MyrLD1I3HXai",
+										"ojBE74HSOJvb",
+										"1exmQK4QuTCl"
+									],
+									"title": "image.png",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/png",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.png"
+								},
+								{
+									"isClone": false,
+									"noteId": "WUDbzy7CZlsF",
+									"notePath": [
+										"obeiKYKe3fbO",
+										"MyrLD1I3HXai",
+										"ojBE74HSOJvb",
+										"WUDbzy7CZlsF"
+									],
+									"title": "image.png",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/png",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "1_image.png"
+								},
+								{
+									"isClone": false,
+									"noteId": "bQcKseZbDjFK",
+									"notePath": [
+										"obeiKYKe3fbO",
+										"MyrLD1I3HXai",
+										"ojBE74HSOJvb",
+										"bQcKseZbDjFK"
+									],
+									"title": "image.png",
+									"notePosition": 30,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/png",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "2_image.png"
+								},
+								{
+									"isClone": false,
+									"noteId": "lQNWQARt7Z9n",
+									"notePath": [
+										"obeiKYKe3fbO",
+										"MyrLD1I3HXai",
+										"ojBE74HSOJvb",
+										"lQNWQARt7Z9n"
+									],
+									"title": "image.png",
+									"notePosition": 40,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/png",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "3_image.png"
+								},
+								{
+									"isClone": false,
+									"noteId": "6WE2E1g8ONfI",
+									"notePath": [
+										"obeiKYKe3fbO",
+										"MyrLD1I3HXai",
+										"ojBE74HSOJvb",
+										"6WE2E1g8ONfI"
+									],
+									"title": "image.png",
+									"notePosition": 50,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/png",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "4_image.png"
+								},
+								{
+									"isClone": false,
+									"noteId": "VGU5nT2392ws",
+									"notePath": [
+										"obeiKYKe3fbO",
+										"MyrLD1I3HXai",
+										"ojBE74HSOJvb",
+										"VGU5nT2392ws"
+									],
+									"title": "image.png",
+									"notePosition": 60,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/png",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "5_image.png"
+								}
+							]
+						}
+					]
+				},
+				{
+					"isClone": false,
+					"noteId": "x24bNoqUDwW2",
+					"notePath": [
+						"obeiKYKe3fbO",
+						"x24bNoqUDwW2"
+					],
+					"title": "Connected Concepts",
+					"notePosition": 60,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "html",
+					"dataFileName": "Connected Concepts.html"
+				}
+			]
+		},
+		{
+			"noImport": true,
+			"dataFileName": "navigation.html"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "index.html"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "style.css"
+		}
+	]
+}

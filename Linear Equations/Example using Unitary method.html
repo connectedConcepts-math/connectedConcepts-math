@@ -1,0 +1,227 @@
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../../../../style.css">
+    <base target="_parent">
+    <style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+  </head>
+  <script type="text/javascript" async="" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+  <body class="ck-content">
+     <h1>Example using Unitary method</h1>
+
+    <p ><span>A grocer sells two kinds of packets N and S. N contains 5kg and 3 Kg Rice.
+      S contains 2 Kg Rice and 1 Kg Wheat. A man needs 26 Kg rice and 15 kg Wheat.
+      How many bags of N and S should he buy. ( Assume that the grocer will take
+      back any number of packets of type N or S - Return policy).</span></p>
+    <h3>Solution</h3>
+    <figure class="table">
+      <table>
+        <tbody>
+          <tr>
+            <td>&nbsp;</td>
+            <td>Packet type</td>
+            <td>Rice(Kg)</td>
+            <td>Wheat(Kg)</td>
+          </tr>
+          <tr>
+            <td><span class="math-tex">\(x\)</span>
+            </td>
+            <td>N</td>
+            <td>5</td>
+            <td>3</td>
+          </tr>
+          <tr>
+            <td><span class="math-tex">\(y\)</span>
+            </td>
+            <td>S</td>
+            <td>2</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Required</td>
+            <td>&nbsp;</td>
+            <td>26</td>
+            <td>15</td>
+          </tr>
+        </tbody>
+      </table>
+    </figure>
+    <p>Let&nbsp;<span class="math-tex">\(x\)</span>&nbsp;packets of N and&nbsp;
+      <span
+      class="math-tex">\(y\)</span>&nbsp;packets of S be required to buy 26 Kg of Rice and 15
+        Kg of wheat.</p>
+    <p>Then,</p>
+    <p><span class="math-tex">\(5x+2y=26\)</span>&nbsp;[ Rice ]</p>
+    <p><span class="math-tex">\(3x+y=15\)</span>&nbsp;[ Wheat ]</p>
+    <p>Extended Unitary method would suggest us to find Number of packets required
+      to buy 1 Kg rice ( and 0 Kg wheat ), and Similarly, find Number of packets
+      required to buy 1 Kg Wheat ( and Zero G Rice}</p>
+    <p>We will Solve for each of them.</p>
+    <h4>Number packets of N and S required for 1 Kg Rice ( 0 Kg Wheat )</h4>
+    
+    <p><span class="math-tex">\(5x+2y=1\)</span>
+    </p>
+    <p><span class="math-tex">\(3x+y=0\)</span>
+    </p>
+    <p>Solving (using substitution method), gives us&nbsp;<span class="math-tex">\(x=-1 , y=3\)</span>.
+      This means</p>
+    <figure class="table">
+      <table>
+        <tbody>
+          <tr>
+            <td>&nbsp;</td>
+            <td>Rice (Kg)</td>
+            <td>Wheat(Kg)</td>
+          </tr>
+          <tr>
+            <td>Buy 3 Pkts of S gives</td>
+            <td>6</td>
+            <td>3</td>
+          </tr>
+          <tr>
+            <td>Take away required 1 kg Rice</td>
+            <td>-1</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>Balance</td>
+            <td>5</td>
+            <td>3</td>
+          </tr>
+        </tbody>
+      </table>
+    </figure>
+    <p>Repackage the balance in terms of N or S. It is clear that the balance
+      can be repackaged into 1 Pkt of N, and this sis returned back to shopkeeper</p>
+    <h4>Number packets of N and S required for 1 Kg What ( 0 Kg Rice )</h4>
+    <p><span class="math-tex">\(5x+2y=0\)</span>
+    </p>
+    <p><span class="math-tex">\(3x+y=1\)</span>
+    </p>
+    <p>Solving gives&nbsp;<span class="math-tex">\(x=2 , y=-5\)</span>
+    </p>
+    <figure class="table">
+      <table>
+        <tbody>
+          <tr>
+            <td>&nbsp;</td>
+            <td>Rice (Kg)</td>
+            <td>Wheat(Kg)</td>
+          </tr>
+          <tr>
+            <td>Buy 2 Pkts of N gives</td>
+            <td>10</td>
+            <td>6</td>
+          </tr>
+          <tr>
+            <td>Take away required 1 kg Wheat</td>
+            <td>&nbsp;</td>
+            <td>-1</td>
+          </tr>
+          <tr>
+            <td>Balance</td>
+            <td>10</td>
+            <td>5</td>
+          </tr>
+        </tbody>
+      </table>
+    </figure>
+    <p>Package 10Kg Rice and 5 Kg Wheat as 5 Packets of S and return it.</p>
+        
+    <h4>Summary :</h4>
+    <figure class="table">
+      <table>
+        <tbody>
+          <tr>
+            <td>&nbsp;</td>
+            <td>N</td>
+            <td>S</td>
+          </tr>
+          <tr>
+            <td>Only Rice (1Kg)</td>
+            <td>
+              <p>-1</p>
+              <p>( Units: Number of Pkts of N per Kg Rice)</p>
+            </td>
+            <td>
+              <p>3</p>
+              <p>( Units: Number of Pkts of S per Kg Rice)</p>
+            </td>
+          </tr>
+          <tr>
+            <td>Only Wheat (1 Kg)</td>
+            <td>
+              <p>2</p>
+              <p>( Units: Number of Pkts of N per Kg Wheat)</p>
+            </td>
+            <td>
+              <p>-5</p>
+              <p>( Units: Number of Pkts of S per Kg Wheat)</p>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </figure>
+    <h4>Interpretation of table</h4>
+    <p>-x+2y = 1 N</p>
+    <p>3x-5y = 1 S</p>
+    <p>(-1) #N per kg of R&nbsp;<i> x Kg of R + 2(#of N per kg of wheat)&nbsp;</i> y
+      (kg of wheat) = 1 N</p>
+    
+    <h4>Final Solution</h4>
+    <p>To buy 26 Kg Rice and 15 Kg Wheat</p>
+    <p><span class="math-tex">\(26*(-1) &nbsp;\space of N &nbsp;\space + 26*(3) \space of S\)</span>&nbsp;
+      &nbsp; [ 26 times packets required for 1 Kg of Rice]</p>
+    <p><span class="math-tex">\(15*(2) \space of N \space + 15*(-5) \space of S\)</span>&nbsp;
+      &nbsp;[ 15 times packets required for 1 Kg of Wheat]</p>
+    <p>Adding together, to find total packets of N and S required</p>
+    <p><span class="math-tex">\(4 \space of N \space and &nbsp;\space 3 \space of S\)</span>
+    </p>
+    <h4>Extension of example</h4>
+    <p>Having solved the problem above, and using learnings from it, find number
+      of packets of N and S required to be bought by a person who needs 45 Kg
+      Rice and 26 Kg Wheat.</p>
+    <p><span class="math-tex">\(45*(-1) &nbsp;\space of N &nbsp;\space + 26(3) \space of S\)</span>&nbsp;
+      &nbsp;[ 45 times packets required for 1 Kg of Rice]</p>
+    <p><span class="math-tex">\(26*(2) \space of N \space + 26*(-5) \space of S\)</span>&nbsp;
+      &nbsp;[ 15 times packets required for 1 Kg of Wheat]</p>
+    <p>Adding together,</p>
+    <p><span class="math-tex">\(7 \space of N \space and &nbsp;\space 4 \space of S\)</span>
+    </p>
+    <h4>Latent concepts</h4>
+    <p>The solution to pair of equations &nbsp;</p>
+    <p>Pair 1:</p>
+    <p><span class="math-tex">\(5x+2y=1\)</span>
+    </p>
+    <p><span class="math-tex">\(3x+y=0\)</span>
+    </p>
+    <p>Pair 2:</p>
+    <p><span class="math-tex">\(5x+2y=0\)</span>
+    </p>
+    <p><span class="math-tex">\(3x+y=1\)</span>
+    </p>
+    <p>has captured the inverse of the matrix&nbsp;<span class="math-tex">\(\begin{pmatrix} &nbsp; &nbsp;5 &amp; 2 \\ &nbsp; &nbsp;3 &amp; 1 \end{pmatrix}\)</span>&nbsp;to
+      be &nbsp;<span class="math-tex">\(\begin{pmatrix} &nbsp; &nbsp;-1 &amp; 2 \\ &nbsp; &nbsp;3 &amp; -5 \end{pmatrix}\)</span>.&nbsp;</p>
+    <p>The solution in matrix form&nbsp;<span class="math-tex">\(Ax=b\)</span>&nbsp;is
+      obtained by&nbsp;<span class="math-tex">\(x = A^{-1}b\)</span>
+    </p>
+    <h4>Next Steps</h4>
+    <ul>
+      <li>Understand the geometric interpretation of the approach to get a perspective
+        on Vector View</li>
+    </ul>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+  </body>
+
+</html>
